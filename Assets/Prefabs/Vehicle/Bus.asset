@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cff2b5dd4cf92942b61ddede26d28ea, type: 3}
+  m_Name: Bus
+  m_EditorClassIdentifier: 
+  spawnable: {fileID: 3154953922404747216, guid: 2d57d90c5ec77904d9d5c98e3b8405bc, type: 3}
